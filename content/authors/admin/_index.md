@@ -32,7 +32,7 @@ education:
       year: 2017
 superuser: true
 highlight_name: true
-title: Tushar Saini
+title: Tushar Saini, MS in CS
 email: tushar.saini1285@gmail.com
 ---
 I am currently working as an Application Engineer at Oracle India. My research interests include machine learning, mobile computing, and programmable matter. I am also interested in IoT, Environmental Sciences.
