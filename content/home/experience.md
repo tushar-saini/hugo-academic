@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Application Engineer
+    company: Oracle India Private Limited
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Noida, India
+    date_start: '2022-02-03'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 'ML Engineer in Health Science GBU.'
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Associate Data Scientist
+    company: Cogneau Systems Private Limited
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Gurugram, India
+    date_start: '2021-04-26'
+    date_end: '2022-01-31'
+    description: Worked in field of Logistics and Supply Chain
+
+  - title: Project Associate
+    company: Indian Institute of Technology Mandi
+    company_url: ''
+    location: Mandi, India
+    date_start: '2019-07-17'
+    date_end: '2021-03-28'
+    description: Worked in field of Logistics and Supply Chain
+
+  - title: Research Intern
+    company: Center for Road Research Institute, CSIR
+    company_url: ''
+    location: Delhi, India
+    date_start: '2019-04-28'
+    date_end: '2019-06-30'
+    description: Worked in field of Logistics and Supply Chain
+
 
 design:
   columns: '2'

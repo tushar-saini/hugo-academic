@@ -1,7 +1,7 @@
 ---
 role: Application Engineer
-avatar_filename: photot.jpg
-bio: My research interests include AI, ML, NLP and programmable matter.
+avatar_filename: avatar.jpg
+bio: 'Research Interest: NLP, Life Sciences & Environmental Science'
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -35,6 +35,9 @@ highlight_name: true
 title: Tushar Saini
 email: tushar.saini1285@gmail.com
 ---
-I am currently working as an Application Engineer at Oracle India. My research interests include machine learning, mobile computing, and programmable matter. I am also interested in IoT, Environmental Sciences.
+I am currently working as an Application Engineer at Health Science Global Business Unit (HSGBU) of Oracle. My work at Oracle revolves around NLP problems, where we are trying to simplify the AE reporting in Argus Safety.
+
+Apart from work, I am also interested in IoT devices and Environmental Sciences.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
