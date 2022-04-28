@@ -32,7 +32,7 @@ education:
       year: 2017
 superuser: true
 highlight_name: true
-title: Tushar Saini
+title: Tushar Saini, MS in CS
 email: tushar.saini1285@gmail.com
 ---
 I am currently working as an Application Engineer at Health Science Global Business Unit (HSGBU) of Oracle. My work at Oracle revolves around NLP problems, where we are trying to simplify the AE reporting in Argus Safety.
