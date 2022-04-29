@@ -27,17 +27,16 @@ content:
   # Contact details (edit or remove options as required)
   email: tushar.saini1285@gmail.com
 #  phone: 888 888 88 88
-  address:
+#  address:
 #    street: 450 Serra Mall
-    city: Delhi, India
-    country: India
-    country_code: IN
-#    region: CA
-#    postcode: '94305'
+#    city: Delhi
+#    region: India
+    #postcode: '94305'
 
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: 28.533566
+    longitude: 77.347821
+
 #  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'
