@@ -37,6 +37,15 @@ content:
     latitude: 28.533566
     longitude: 77.347821
 
+  contact_links:
+    - icon: telegram
+      icon_pack: fab
+      name: Telegram Me
+    - icon: linkedin
+      icon_pack: fab
+      name: DM me on linkedin
+
+
 #  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #  office_hours:
 #    - 'Monday 10:00 to 13:00'

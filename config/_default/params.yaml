@@ -88,9 +88,9 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: OpenStreetMap
+    provider: mapnik
     api_key: 'pk.eyJ1IjoidHNhaW5pMTI4NSIsImEiOiJjbDJsdjR4cmMxbGsxM2xxaDN4aXAzeTJwIn0.n-0TmqUXfVOTLuuntqtlyg'
-    zoom: 15
+    zoom: 10
 
 # Extensions
 
