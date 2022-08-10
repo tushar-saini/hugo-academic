@@ -43,4 +43,4 @@ I am currently working as an Application Engineer at Health Science Global Busin
 Apart from work, I am also interested in IoT devices and Environmental Sciences.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

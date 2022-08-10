@@ -19,10 +19,10 @@ marketing:
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-NJ0JF83YY5'
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google-site-verification=lYCoJRUuIRODOmjf29QymWJf5ExUH7IYRtYX2wxqeHE'
     baidu: ''
 
 # Site header

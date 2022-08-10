@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Experience
 subtitle:
@@ -28,7 +28,11 @@ experience:
     location: Noida, India
     date_start: '2022-02-03'
     date_end: ''
-    description: 'ML Engineer in Health Science GBU.'
+    description: >-
+      - ML Engineer working on Entity-Linking tasks.
+
+      - Developed unbalanced task assignment solver based on Hungarian Algorithm.
+
 
   - title: Associate Data Scientist
     company: Cogneau Systems Private Limited
@@ -36,7 +40,12 @@ experience:
     location: Gurugram, India
     date_start: '2021-04-26'
     date_end: '2022-01-31'
-    description: Worked in field of Logistics and Supply Chain
+    description: >-
+      - Developed mixed integer programming solver to solve inventory replenishment where there were around of 200 inputs.
+
+      - Developed sales forecasting models for two-wheeler manufacturer via ensemble of facebook prophets and recurrent neural network.
+
+      - Developed monte-carlo based warehouse simulator which outputs major KPIs revolving around number of workers required at what stage via simulating various inputs.
 
   - title: Project Associate
     company: Indian Institute of Technology Mandi
@@ -44,7 +53,12 @@ experience:
     location: Mandi, India
     date_start: '2019-07-17'
     date_end: '2021-03-28'
-    description: Worked in field of Logistics and Supply Chain
+    description: >-
+      - Research and developed a Low-cost Air-pollution Sensing and Warning technology, which could be deployed at hilly terrains of Himalayas for 24x7 monitoring of air-pollution.
+
+      - Developed short- and long-term machine learning and state-of-the-art deep learning forecasting model which can forecast pollution concentration ahead in time.
+
+      - Evaluated public perception of people residing at polluted location in India and their eagerness to adopt technology to mitigate the impact of air pollution.
 
   - title: Research Intern
     company: Center for Road Research Institute, CSIR
@@ -52,7 +66,10 @@ experience:
     location: Delhi, India
     date_start: '2019-04-28'
     date_end: '2019-06-30'
-    description: Worked in field of Logistics and Supply Chain
+    description: >-
+      - Worked briefly on formulating a CNN based machine learning model to identify vehicular traffic on road via CCTV footage.
+
+      - Evaluated vehicular traffic at urban city of Ghaziabad, U.P., India, to devise a modification plan of road intersection to smooth out long traffic jams.
 
 
 design:

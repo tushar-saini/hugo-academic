@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 40
 
 title: Recent Posts
 subtitle:
@@ -35,4 +35,4 @@ design:
   # Choose a view for the listings:
   view: compact
   columns: '2'
----
+--- -->
