@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Modeling Air Quality via Machine Learning and IoT Technologies"
-summary: "We explore how to monitor major pollutants via low-cost IoT device."
+summary: "We investigated a low-cost air pollution monitoring and forecasting system."
 authors: ["Tushar Saini", "Pratik Chaturvedi", "Varun Dutt"]
 tags: []
 categories: []
 date: 2019-07-10T15:06:54+05:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://tushar-saini.web.app/research"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
