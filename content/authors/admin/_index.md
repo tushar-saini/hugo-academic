@@ -1,11 +1,11 @@
 ---
 role: Application Engineer
 avatar_filename: avatar.jpg
-bio: 'Research Interest: NLP, Life Sciences & Environmental Science'
+bio: 'Research Interest: AI, ML, Computational Modelling'
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Computational Modelling
 social:
   - icon: envelope
     icon_pack: fas
