@@ -8,3 +8,7 @@ Generate your website’s HTML code <br>
 
 Create new publication
 `hugo new content/publication/<my-publication>`
+
+
+Create new post
+`hugo new  --kind post post/replenishment-planning`
